@@ -3,7 +3,7 @@ import Hero from './Hero';
 
 test('renders hero headline', () => {
   render(<Hero />);
-  expect(screen.getByText(/Hi, I’m Ty/i)).toBeInTheDocument();
+  expect(screen.getByText(/Hi, I’m Tiace/i)).toBeInTheDocument();
 });
 
 test('renders call-to-action button', () => {

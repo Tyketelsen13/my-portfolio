@@ -3,7 +3,7 @@ import Header from './Header';
 
 test('renders name in Header', () => {
   render(<Header />);
-  expect(screen.getByText(/Ty Ketelsen/i)).toBeInTheDocument();
+  expect(screen.getByText(/Tiace Ketelsen/i)).toBeInTheDocument();
 });
 
 test('renders navigation links', () => {
