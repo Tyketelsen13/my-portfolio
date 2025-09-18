@@ -1,0 +1,29 @@
+.contact {
+  background: #fff;
+  padding: 4rem 1rem 2rem 1rem;
+  text-align: center;
+}
+.contact h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.contact__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+.contact__link {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+.contact__link:hover {
+  background: #0056b3;
+}

@@ -1,0 +1,37 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  background: #f8fafc;
+  padding: 3rem 1rem 2rem 1rem;
+  text-align: center;
+}
+.hero__content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.hero__headline {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+.hero__subtext {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  color: #555;
+}
+.hero__cta {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.hero__cta:hover {
+  background: #0056b3;
+}
