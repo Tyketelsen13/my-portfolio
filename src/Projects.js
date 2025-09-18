@@ -18,6 +18,14 @@ const projects = [
     demo: "https://loteria-frontend-ten.vercel.app/auth/signin",
     github: "https://github.com/Tyketelsen13/loteria"
   },
+   {
+    title: "Memory Game",
+    description: "A fun memory game built with React.",
+    image: "https://via.placeholder.com/400x200?text=Memory+Game",
+    tech: ["React", "CSS"],
+    demo: "#",
+    github: "#"
+  },
   {
     title: "Task Manager App",
     description: "A simple task manager with CRUD features.",
