@@ -11,6 +11,14 @@ const projects = [
     github: "https://github.com/Tyketelsen13/my-portfolio"
   },
   {
+    title: "Loteria Online",
+    description: "A fun online lottery game built with React.",
+    image: "https://via.placeholder.com/400x200?text=Loteria+Online",
+    tech: ["React", "Next.js", "MongoDB"],
+    demo: "https://loteria-frontend-ten.vercel.app/auth/signin",
+    github: "https://github.com/Tyketelsen13/loteria"
+  },
+  {
     title: "Task Manager App",
     description: "A simple task manager with CRUD features.",
     image: "https://via.placeholder.com/400x200?text=Task+Manager",

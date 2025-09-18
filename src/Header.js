@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => (
   <header className="header">
     <div className="header__container">
-      <div className="header__name">Tiace Ketelsen</div>
+      <div className="header__name">💻Tiace Ketelsen💻</div>
       <nav className="header__nav">
         <a href="#home">Home</a>
         <a href="#projects">Projects</a>

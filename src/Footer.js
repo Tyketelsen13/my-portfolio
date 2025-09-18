@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => (
   <footer className="footer">
-    © 2025 Ty Ketelsen.
+    © 2025 KetelsenCoding
   </footer>
 );
 
