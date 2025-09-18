@@ -5,9 +5,9 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A personal portfolio site to showcase my work and skills.",
-    image: "https://via.placeholder.com/400x200?text=Portfolio+Site",
+    image: "public/portfolio.png",
     tech: ["React", "CSS"],
-    demo: "#",
+    demo: "https://my-portfolio-sigma-peach-kht6h0gosi.vercel.app/",
     github: "https://github.com/Tyketelsen13/my-portfolio"
   },
   {
