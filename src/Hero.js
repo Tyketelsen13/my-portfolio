@@ -5,7 +5,7 @@ const Hero = () => (
   <section className="hero" id="home">
     <div className="hero__content">
       <h1 className="hero__headline">
-        Hi, I’m Ty — a junior software developer passionate about building user-friendly applications.
+        Hi, I’m Tiace — a junior software developer passionate about building user-friendly applications.
       </h1>
       <p className="hero__subtext">
         Currently seeking entry-level software engineering roles.

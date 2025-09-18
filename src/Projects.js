@@ -8,7 +8,7 @@ const projects = [
     image: "https://via.placeholder.com/400x200?text=Portfolio+Site",
     tech: ["React", "CSS"],
     demo: "#",
-    github: "#"
+    github: "https://github.com/Tyketelsen13/my-portfolio"
   },
   {
     title: "Task Manager App",
