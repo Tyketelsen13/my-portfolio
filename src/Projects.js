@@ -43,12 +43,12 @@ const projects = [
     github: "#"
   },
   {
-    title: "Blog Platform",
-    description: "A full-stack blog platform for sharing articles.",
-    image: "https://via.placeholder.com/400x200?text=Blog+Platform",
-    tech: ["React", "Node.js", "Express", "MongoDB"],
-    demo: "#",
-    github: "#"
+    title: "Rock-Paper-Scissors Game",
+    description: "A fun rock-paper-scissors game built with JavaScript.",
+    image: "https://via.placeholder.com/400x200?text=Rock-Paper-Scissors+Game",
+    tech: ["JavaScript", "HTML", "CSS"],
+    demo: "https://rock-paper-scissors-git-main-tyketelsen13s-projects.vercel.app/",
+    github: "https://github.com/Tyketelsen13/Rock-Paper-Scissors"
   }
 ];
 
