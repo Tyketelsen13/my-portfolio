@@ -58,24 +58,17 @@ const Projects = () => (
     <div className="projects__grid">
       {projects.map((project, idx) => (
         <div className="project-card" key={idx}>
-          <div className="card-inner">
-            <div className="card-front">
-              <img src={project.image} alt={project.title} className="project-card__img" />
-              <h3 className="project-card__title">{project.title}</h3>
-              <p className="project-card__desc">{project.description}</p>
-              <div className="project-card__tech">
-                {project.tech.map((t, i) => (
-                  <span className="project-card__tag" key={i}>{t}</span>
-                ))}
-              </div>
-              <div className="project-card__links">
-                <a href={project.demo} className="project-card__btn" target="_blank" rel="noopener noreferrer">Live Demo</a>
-                <a href={project.github} className="project-card__btn project-card__btn--secondary" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-              </div>
-            </div>
-            <div className="card-back">
-              <div className="card-back__content">Zanimals</div>
-            </div>
+          <img src={project.image} alt={project.title} className="project-card__img" />
+          <h3 className="project-card__title">{project.title}</h3>
+          <p className="project-card__desc">{project.description}</p>
+          <div className="project-card__tech">
+            {project.tech.map((t, i) => (
+              <span className="project-card__tag" key={i}>{t}</span>
+            ))}
+          </div>
+          <div className="project-card__links">
+            <a href={project.demo} className="project-card__btn" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a href={project.github} className="project-card__btn project-card__btn--secondary" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
           </div>
         </div>
       ))}
