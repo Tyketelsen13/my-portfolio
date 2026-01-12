@@ -27,20 +27,21 @@ const projects = [
     github: "https://github.com/Tyketelsen13/Mine-Mine"
   },
   {
-    title: "Task Manager App",
-    description: "A simple task manager with CRUD features.",
-    image: "https://via.placeholder.com/400x200?text=Task+Manager",
-    tech: ["React", "Node.js", "MongoDB"],
-    demo: "#",
-    github: "#"
+    title: "Jeopardy",
+    description: "Classic game of Jeopardy I built using HTML, CSS, and JavaScript to sharpen my skills!
+",
+    image: "https://via.placeholder.com/400x200?text=Weather+Dashboard",
+    tech: ["Html", "CSS", "Javascript"],
+    demo: "https://jeopardy-nine.vercel.app/",
+    github: "https://github.com/Tyketelsen13/Jeopardy"
   },
   {
-    title: "Weather Dashboard",
-    description: "A dashboard to check weather in any city.",
+    title: "Pokedex",
+    description: "I built a really cool pokedex to help improve my javascript and learn apis",
     image: "https://via.placeholder.com/400x200?text=Weather+Dashboard",
-    tech: ["React", "API"],
-    demo: "#",
-    github: "#"
+    tech: ["Html", "CSS", "Javascript" "API"],
+    demo: "https://pokedex-ten-flame-99.vercel.app/",
+    github: "https://github.com/Tyketelsen13/Pokedex"
   },
   {
     title: "Rock-Paper-Scissors Game",
