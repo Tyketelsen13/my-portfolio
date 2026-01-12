@@ -38,7 +38,7 @@ const projects = [
     title: "Pokedex",
     description: "I built a really cool pokedex to help improve my javascript and learn apis",
     image: "https://via.placeholder.com/400x200?text=Weather+Dashboard",
-    tech: ["Html", "CSS", "Javascript" "API"],
+    tech: ["Html", "CSS", "Javascript", "API"],
     demo: "https://pokedex-ten-flame-99.vercel.app/",
     github: "https://github.com/Tyketelsen13/Pokedex"
   },
