@@ -28,8 +28,7 @@ const projects = [
   },
   {
     title: "Jeopardy",
-    description: "Classic game of Jeopardy I built using HTML, CSS, and JavaScript to sharpen my skills!
-",
+    description: "Classic game of Jeopardy I built using HTML, CSS, and JavaScript to sharpen my skills!",
     image: "https://via.placeholder.com/400x200?text=Weather+Dashboard",
     tech: ["Html", "CSS", "Javascript"],
     demo: "https://jeopardy-nine.vercel.app/",
